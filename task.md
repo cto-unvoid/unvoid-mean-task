@@ -13,7 +13,7 @@ You have been tasked with building a simple web application that allows users to
 3. Use Express.js to handle HTTP requests and responses.
 4. Use Angular to build the user interface for the website.
 5. Use Node.js to handle server-side logic and communicate with the database.
-6. Implement authentication and authorization features for users to create accounts, login, and manage their profiles.
+6. Implement authentication and authorization features for users to create accounts and login.
 7. Implement a CRUD (Create, Read, Update, Delete) functionality for tasks.
 8. Implement a feature that allows users to mark tasks as completed and view their completed tasks separately.
 9. Use Git for version control.
